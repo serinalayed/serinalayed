@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Serina and I'm currenly attending the Tech Elevator Bootcamp. Excited to start coding!
 <!--
 **serinalayed/serinalayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
