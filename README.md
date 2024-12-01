@@ -13,7 +13,8 @@ Hi, I’m **Serina Alayed**, a passionate and detail-oriented software developer
 🌐 **Other Tools**: Git, SQL, REST APIs, Figma, Adobe Suite
 
 ### **Fun Facts**  
-- 🎓 I hold a **First Class Honours BA in Fashion Contour** from the London College of Fashion.  
+- 🎓 I am a proud graduate of the **Tech Elevator Coding Bootcamp**, where I gained hands-on experience in full-stack development, including C#, .NET, JavaScript, and more.  
+- 🎓 I hold a **First Class Honours BA in Fashion Contour** from the London College of Fashion.
 - 👶 I’m a proud mom, balancing tech aspirations and family life.  
 - 💡 Currently working on **Tiny Timer**, a simple and elegant app for tracking baby schedules.
 
